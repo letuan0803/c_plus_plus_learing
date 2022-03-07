@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1645347735 source:e:\study\ky 12\week1\tuan1\main.cpp
+1646613477 source:e:\study\ky 12\week1\tuan1\main.cpp
 	<iostream>
+	<iomanip>
 	<math.h>
 
